@@ -1,0 +1,201 @@
+Student_ID,Student_Name,Gender,Class,Attendance_Pct,Mathematics_Exam_100,Physics_Exam_100,Chemistry_Exam_100,English_Exam_100,Computer_Science_Exam_100,Biology_Exam_100,History_Exam_100,Mathematics_Internal_50,Physics_Internal_50,Chemistry_Internal_50,English_Internal_50,Computer_Science_Internal_50,Biology_Internal_50,History_Internal_50,Avg_Exam_Score,Avg_Internal_Score,Overall_Score_Pct,Grade,Performance_Category,Pass_Fail
+STU1000,Mohit Singh,Male,Class 11B,94,60,62,87,66,79,72,64,36,39,39,43,31,31,43,70.0,37.43,76.02,B,Good,Pass
+STU1001,Sonal Menon,Female,Class 11A,87,79,78,98,85,98,83,90,40,35,41,46,39,35,44,87.29,40.0,85.41,A,Very Good,Pass
+STU1002,Prakash Chopra,Male,Class 11B,80,71,84,67,77,77,84,76,38,35,34,35,40,35,34,76.57,35.86,76.04,B,Good,Pass
+STU1003,Neha Patil,Female,Class 9A,60,70,53,60,53,51,67,64,31,34,31,31,22,27,23,59.71,28.43,59.06,D,Below Average,Pass
+STU1004,Varun Verma,Male,Class 11B,66,60,64,73,64,71,45,60,31,22,23,32,26,35,25,62.43,27.71,61.39,C,Average,Pass
+STU1005,Nisha Srivastava,Female,Class 11B,47,55,60,53,42,44,42,53,14,17,17,16,12,16,30,49.86,17.43,45.54,D,Below Average,Pass
+STU1006,Nisha Bhatt,Female,Class 10A,64,56,49,45,51,59,41,34,29,29,16,12,12,15,28,47.86,20.14,49.19,D,Below Average,Pass
+STU1007,Gaurav Verma,Male,Class 10B,30,23,21,24,31,22,39,33,15,13,22,18,9,6,16,27.57,14.14,28.23,F,Poor,Fail
+STU1008,Kritika Desai,Female,Class 12A,89,92,79,91,91,75,89,99,40,35,39,40,39,50,38,88.0,40.14,86.27,A,Very Good,Pass
+STU1009,Deepak Hegde,Male,Class 12B,85,69,48,73,62,46,52,51,28,21,23,36,34,37,20,57.29,28.43,62.72,C,Average,Pass
+STU1010,Naveen Nambiar,Male,Class 10B,67,38,44,46,47,55,45,46,19,28,20,29,18,26,16,45.86,22.29,49.77,D,Below Average,Pass
+STU1011,Pooja Saxena,Female,Class 12B,70,47,66,52,58,47,51,66,29,23,24,31,24,28,24,55.29,26.14,57.48,D,Below Average,Pass
+STU1012,Lakshmi Choudhary,Female,Class 9B,97,90,80,96,82,80,97,88,47,45,48,41,46,45,37,87.57,44.14,89.63,A,Very Good,Pass
+STU1013,Priya Sinha,Female,Class 12B,74,67,45,57,55,61,64,54,36,22,23,27,23,22,28,57.57,25.86,59.39,D,Below Average,Pass
+STU1014,Sneha Bhat,Female,Class 10A,68,69,49,71,58,72,74,66,28,32,24,37,36,38,35,65.57,32.86,66.09,C,Average,Pass
+STU1015,Kavya Shah,Female,Class 9A,90,88,77,83,75,95,77,100,43,37,42,37,43,38,49,85.0,41.29,85.39,A,Very Good,Pass
+STU1016,Deepak Malhotra,Male,Class 12A,68,64,49,46,61,67,52,75,23,25,28,21,25,26,29,59.14,25.29,58.77,D,Below Average,Pass
+STU1017,Ishita Rajan,Female,Class 10B,54,44,46,51,35,38,41,55,12,20,13,12,12,28,29,44.29,18.0,44.16,F,Poor,Fail
+STU1018,Sunil Menon,Male,Class 10B,89,63,81,86,80,73,81,75,45,40,44,37,34,35,38,77.0,39.0,79.65,B,Good,Pass
+STU1019,Dev Jain,Male,Class 10A,72,56,46,71,49,45,47,65,28,33,25,21,22,32,36,54.14,28.14,58.25,D,Below Average,Pass
+STU1020,Smita Pillai,Female,Class 11A,46,44,35,35,38,44,30,38,23,22,29,22,19,13,21,37.71,21.29,40.59,F,Poor,Fail
+STU1021,Rajesh Kumar,Male,Class 9A,85,72,62,75,68,76,80,66,35,44,28,30,36,30,32,71.29,33.57,72.99,B,Good,Pass
+STU1022,Pallavi Mehta,Female,Class 12A,45,39,39,50,37,32,48,60,28,16,24,22,27,16,21,43.57,22.0,43.96,F,Poor,Fail
+STU1023,Rohit Jain,Male,Class 12A,89,91,99,91,93,100,75,96,42,37,35,36,39,46,38,92.14,39.0,87.98,A,Very Good,Pass
+STU1024,Pooja Dubey,Female,Class 9A,95,60,80,77,81,67,75,68,28,42,30,44,45,30,44,72.57,37.57,77.7,B,Good,Pass
+STU1025,Amitabh Choudhary,Male,Class 12B,68,70,47,72,53,52,68,69,26,27,34,35,32,22,35,61.57,30.14,62.53,C,Average,Pass
+STU1026,Preeti Mehta,Female,Class 10B,77,79,64,70,68,80,83,82,37,32,28,43,29,43,36,75.14,35.43,74.44,B,Good,Pass
+STU1027,Prakash Joshi,Male,Class 12B,54,52,46,39,44,44,44,54,15,29,18,21,14,27,12,46.14,19.43,45.89,D,Below Average,Pass
+STU1028,Tanvi Nair,Female,Class 12B,68,57,51,74,75,74,51,47,38,22,24,36,28,31,24,61.29,29.0,61.81,C,Average,Pass
+STU1029,Deepika Gupta,Female,Class 11B,37,30,43,43,30,27,15,20,5,20,19,17,14,9,18,29.71,14.57,31.03,F,Poor,Fail
+STU1030,Priyanka Nambiar,Female,Class 9B,55,30,40,54,40,56,42,33,18,12,21,20,23,14,24,42.14,18.86,43.61,F,Poor,Fail
+STU1031,Isha Desai,Female,Class 9B,71,74,58,69,53,72,46,53,23,21,29,24,27,28,33,60.71,26.43,60.81,C,Average,Pass
+STU1032,Meera Bhat,Female,Class 11B,70,60,43,58,30,55,54,50,24,29,29,18,14,13,25,50.0,21.71,52.36,D,Below Average,Pass
+STU1033,Smita Rajan,Female,Class 10A,80,72,54,60,46,74,74,62,24,25,35,33,30,29,29,63.14,29.29,65.37,C,Average,Pass
+STU1034,Simran Choudhary,Female,Class 11A,72,65,52,54,60,62,66,57,23,25,25,22,26,36,35,59.43,27.43,60.8,C,Average,Pass
+STU1035,Naveen Sinha,Male,Class 12B,58,34,47,36,37,32,35,40,29,14,22,19,23,20,30,37.29,22.43,43.32,F,Poor,Fail
+STU1036,Siddharth Patel,Male,Class 12A,72,58,68,61,51,57,53,55,21,35,28,38,31,24,36,57.57,30.43,61.28,C,Average,Pass
+STU1037,Arjun Shah,Male,Class 10B,72,57,65,59,58,75,54,72,20,24,21,33,35,38,35,62.86,29.43,63.69,C,Average,Pass
+STU1038,Arjun Saxena,Male,Class 12B,74,52,70,48,52,49,49,61,23,34,22,37,21,20,24,54.43,25.86,57.67,D,Below Average,Pass
+STU1039,Pawan Mehta,Male,Class 11A,79,80,68,76,80,73,82,84,31,31,30,37,44,34,40,77.57,35.29,76.11,B,Good,Pass
+STU1040,Lakshmi Mahajan,Female,Class 9A,75,77,69,74,68,90,70,80,35,43,44,35,45,35,28,75.43,37.86,75.42,B,Good,Pass
+STU1041,Archana Bhatt,Female,Class 11A,61,45,51,60,73,66,65,58,22,28,27,33,31,27,35,59.71,29.0,59.54,D,Below Average,Pass
+STU1042,Prakash Sinha,Male,Class 12A,96,96,87,81,75,100,84,98,37,41,50,41,44,41,42,88.71,42.29,89.14,A,Very Good,Pass
+STU1043,Lakshmi Chopra,Female,Class 11A,48,60,49,45,49,35,58,37,27,25,13,16,24,13,18,47.57,19.43,45.48,D,Below Average,Pass
+STU1044,Vinod Bose,Male,Class 12A,76,82,61,65,72,74,88,82,38,31,30,33,38,34,33,74.86,33.86,73.3,B,Good,Pass
+STU1045,Sneha Banerjee,Female,Class 12A,71,55,59,50,48,45,47,53,22,31,33,23,37,26,32,51.0,29.14,56.82,D,Below Average,Pass
+STU1046,Preeti Banerjee,Female,Class 12A,62,46,67,60,51,56,62,74,34,26,30,31,35,20,33,59.43,29.86,60.02,C,Average,Pass
+STU1047,Ankit Srivastava,Male,Class 12A,46,42,31,44,32,55,59,31,20,18,14,22,23,20,22,42.0,19.86,42.23,F,Poor,Fail
+STU1048,Nikhil Choudhary,Male,Class 11B,53,39,30,53,54,49,59,55,14,12,19,15,27,26,24,48.43,19.57,47.02,D,Below Average,Pass
+STU1049,Sakshi Chatterjee,Female,Class 12B,49,59,45,35,30,55,59,53,21,16,19,22,22,26,23,48.0,21.29,46.84,D,Below Average,Pass
+STU1050,Sunil Verma,Male,Class 12A,69,35,37,43,32,50,31,45,29,29,22,17,25,15,14,39.0,21.57,46.03,D,Below Average,Pass
+STU1051,Smita Reddy,Female,Class 10B,63,58,60,67,59,50,52,49,33,34,27,37,23,29,29,56.43,30.29,58.78,D,Below Average,Pass
+STU1052,Pallavi Shah,Female,Class 11B,53,53,38,36,44,37,35,37,19,16,21,30,18,22,14,40.0,20.0,42.6,F,Poor,Fail
+STU1053,Riya Pillai,Female,Class 10B,80,70,48,65,59,46,48,45,35,27,34,31,21,29,27,54.43,29.14,60.51,C,Average,Pass
+STU1054,Rohit Verma,Male,Class 10B,47,41,46,57,35,44,49,38,12,15,23,18,13,23,22,44.29,18.0,42.76,F,Poor,Fail
+STU1055,Rohit Joshi,Male,Class 11A,61,64,68,65,74,51,71,45,30,33,31,25,29,22,26,62.57,28.0,60.61,C,Average,Pass
+STU1056,Ankit Agarwal,Male,Class 12B,62,58,48,70,57,66,62,49,37,22,25,32,28,33,29,58.57,29.43,59.33,D,Below Average,Pass
+STU1057,Shreya Iyer,Female,Class 11A,83,63,73,56,58,58,45,72,31,26,32,32,26,20,33,60.71,28.57,64.28,C,Average,Pass
+STU1058,Gaurav Gupta,Male,Class 9B,72,63,73,56,59,69,50,49,20,21,37,24,32,22,38,59.86,27.71,61.18,C,Average,Pass
+STU1059,Simran Kapoor,Female,Class 10A,64,56,54,50,61,50,74,47,23,32,35,26,29,24,21,56.0,27.14,57.17,D,Below Average,Pass
+STU1060,Anjali Iyer,Female,Class 12A,32,43,37,34,37,41,43,20,12,17,11,20,10,11,6,36.43,12.43,32.65,F,Poor,Fail
+STU1061,Ishita Rao,Female,Class 12A,71,48,49,52,68,71,73,51,21,37,21,30,23,32,34,58.86,28.29,60.72,C,Average,Pass
+STU1062,Nandini Roy,Female,Class 11A,48,22,28,27,36,26,29,31,19,10,5,5,20,19,12,28.43,12.86,31.67,F,Poor,Fail
+STU1063,Preeti Bajaj,Female,Class 12B,80,85,75,72,63,62,64,71,41,39,30,42,44,44,29,70.29,38.43,73.87,B,Good,Pass
+STU1064,Harish Das,Male,Class 9B,83,55,69,68,61,47,46,69,36,32,24,20,22,23,26,59.29,26.14,62.28,C,Average,Pass
+STU1065,Siddharth Agarwal,Male,Class 11A,85,74,70,50,66,70,68,74,27,22,31,28,25,30,28,67.43,27.29,67.73,C,Average,Pass
+STU1066,Ananya Chopra,Female,Class 12B,51,48,38,49,46,37,40,41,13,18,17,24,17,20,22,42.71,18.71,43.05,F,Poor,Fail
+STU1067,Divya Chopra,Female,Class 9B,86,95,86,89,92,91,93,97,38,43,47,46,43,47,46,91.86,44.29,89.87,A,Very Good,Pass
+STU1068,Rajesh Sinha,Male,Class 9B,59,37,35,49,53,60,31,39,28,20,21,30,22,12,13,43.43,20.86,46.12,D,Below Average,Pass
+STU1069,Rahul Tiwari,Male,Class 12A,73,61,56,73,46,49,60,52,21,20,21,20,38,31,29,56.71,25.71,58.65,D,Below Average,Pass
+STU1070,Sunil Yadav,Male,Class 10B,73,63,54,63,49,51,56,64,35,25,24,20,27,24,34,57.14,27.0,59.53,D,Below Average,Pass
+STU1071,Arjun Srivastava,Male,Class 10A,81,70,53,57,70,53,75,45,21,37,31,38,34,36,35,60.43,33.14,66.01,C,Average,Pass
+STU1072,Karthik Sharma,Male,Class 9A,46,47,30,42,35,37,35,31,15,12,29,18,16,25,18,36.71,19.0,38.89,F,Poor,Fail
+STU1073,Pooja Bajaj,Female,Class 10A,76,54,47,54,65,46,73,68,35,37,20,32,33,34,22,58.14,30.43,62.39,C,Average,Pass
+STU1074,Divya Mishra,Female,Class 9B,83,67,80,61,63,70,88,83,36,29,36,45,41,44,36,73.14,38.14,75.9,B,Good,Pass
+STU1075,Nandini Joshi,Female,Class 9B,61,30,35,38,58,37,56,53,18,17,22,18,24,22,19,43.86,20.0,46.32,D,Below Average,Pass
+STU1076,Sakshi Srivastava,Female,Class 12B,75,71,61,67,45,72,45,58,27,38,29,26,32,38,22,59.86,30.29,63.07,C,Average,Pass
+STU1077,Rahul Mehta,Male,Class 9A,63,48,64,74,50,56,49,67,20,20,21,24,21,22,21,58.29,21.29,55.3,D,Below Average,Pass
+STU1078,Rohan Desai,Male,Class 11B,51,56,60,56,47,58,51,32,24,15,19,18,18,15,13,51.43,17.43,47.2,D,Below Average,Pass
+STU1079,Rohan Rajan,Male,Class 9B,95,80,69,75,63,64,63,85,34,37,38,38,41,36,28,71.29,36.0,76.21,B,Good,Pass
+STU1080,Riya Tiwari,Female,Class 9A,82,69,56,74,55,69,75,64,36,35,29,20,33,20,33,66.0,29.43,67.42,C,Average,Pass
+STU1081,Rajesh Menon,Male,Class 9A,91,97,77,93,84,80,88,75,41,44,36,35,46,50,38,84.86,41.43,85.59,A,Very Good,Pass
+STU1082,Archana Kumar,Female,Class 12B,63,41,60,56,46,38,48,60,17,21,18,19,27,17,15,49.86,19.14,49.59,D,Below Average,Pass
+STU1083,Varun Thakur,Male,Class 9B,95,70,71,63,72,89,72,88,30,41,28,39,34,37,36,75.0,35.0,77.75,B,Good,Pass
+STU1084,Deepika Naidu,Female,Class 10A,57,58,50,37,60,44,34,47,13,23,30,22,28,16,26,47.14,22.57,48.61,D,Below Average,Pass
+STU1085,Divya Kulkarni,Female,Class 12B,67,54,38,48,37,34,40,44,19,28,18,20,21,16,16,42.14,19.71,46.43,D,Below Average,Pass
+STU1086,Amitabh Nambiar,Male,Class 11B,65,52,55,75,51,53,75,68,23,25,23,26,32,24,24,61.29,25.29,59.35,D,Below Average,Pass
+STU1087,Simran Banerjee,Female,Class 12A,68,51,48,65,74,48,53,51,32,34,21,20,32,33,27,55.71,28.43,58.46,D,Below Average,Pass
+STU1088,Tanvi Patel,Female,Class 10A,83,79,83,72,60,83,67,89,41,41,35,35,33,31,42,76.14,36.86,76.91,B,Good,Pass
+STU1089,Anjali Chopra,Female,Class 9B,98,82,100,87,97,97,95,80,43,48,50,49,35,48,40,91.14,44.71,92.08,A+,Excellent,Pass
+STU1090,Preeti Sharma,Female,Class 12A,60,59,33,31,38,47,36,35,18,28,23,15,30,26,29,39.86,24.14,45.99,D,Below Average,Pass
+STU1091,Prakash Menon,Male,Class 9A,80,70,71,56,61,55,58,68,34,26,25,32,36,23,31,62.71,29.57,65.28,C,Average,Pass
+STU1092,Nikhil Shah,Male,Class 12A,72,46,45,47,58,74,58,65,31,38,28,23,27,29,32,56.14,29.71,60.13,C,Average,Pass
+STU1093,Ankit Saxena,Male,Class 12B,66,50,49,74,69,47,70,70,26,35,37,27,24,31,33,61.29,30.43,62.12,C,Average,Pass
+STU1094,Swati Rajan,Female,Class 10A,54,41,30,26,40,42,22,23,17,13,18,10,20,5,13,32.0,13.71,35.26,F,Poor,Fail
+STU1095,Lakshmi Bhatt,Female,Class 11A,40,30,30,28,34,35,17,36,16,9,14,17,6,7,15,30.0,12.0,30.5,F,Poor,Fail
+STU1096,Harish Desai,Male,Class 9A,85,81,77,95,84,83,94,78,39,42,40,49,46,39,41,84.57,42.29,84.66,A,Very Good,Pass
+STU1097,Nisha Naidu,Female,Class 10A,79,73,67,64,70,47,66,73,37,29,26,35,26,36,22,65.71,30.14,67.01,C,Average,Pass
+STU1098,Kritika Gupta,Female,Class 9B,68,58,52,71,49,60,60,62,21,35,34,24,35,27,35,58.86,30.14,61.04,C,Average,Pass
+STU1099,Mohit Mahajan,Male,Class 9A,50,56,40,44,52,48,45,51,21,26,23,25,25,14,17,48.0,21.57,47.19,D,Below Average,Pass
+STU1100,Nandini Bhatt,Female,Class 9A,60,64,46,66,68,74,55,70,23,36,35,35,24,21,26,63.29,28.57,61.09,C,Average,Pass
+STU1101,Nandini Das,Female,Class 11B,78,87,81,71,70,75,84,76,45,34,37,41,38,41,36,77.71,38.86,77.77,B,Good,Pass
+STU1102,Dev Tiwari,Male,Class 11A,71,71,60,57,55,61,53,72,36,31,26,35,23,30,26,61.29,29.57,62.69,C,Average,Pass
+STU1103,Archana Banerjee,Female,Class 10A,63,50,32,55,31,42,53,47,24,29,30,13,24,21,15,44.29,22.29,48.1,D,Below Average,Pass
+STU1104,Dev Menon,Male,Class 9A,91,89,77,79,72,79,64,80,30,34,29,42,33,31,33,77.14,33.14,77.2,B,Good,Pass
+STU1105,Gaurav Bhat,Male,Class 9B,65,30,41,57,56,34,55,39,29,20,21,17,25,13,22,44.57,21.0,48.01,D,Below Average,Pass
+STU1106,Gaurav Tripathi,Male,Class 9A,45,33,31,16,41,18,39,40,18,17,19,7,5,17,9,31.14,13.14,32.7,F,Poor,Fail
+STU1107,Preeti Roy,Female,Class 9B,62,65,60,51,73,49,65,45,33,20,20,23,22,26,23,58.29,23.86,56.39,D,Below Average,Pass
+STU1108,Varun Patel,Male,Class 11A,83,63,52,59,68,68,50,74,21,31,24,22,29,37,35,62.0,28.43,64.92,C,Average,Pass
+STU1109,Kritika Chopra,Female,Class 9A,82,46,45,46,45,73,65,66,22,32,29,29,25,35,21,55.14,27.57,60.51,C,Average,Pass
+STU1110,Neha Tripathi,Female,Class 12B,60,51,35,34,60,55,33,41,17,25,27,24,26,20,30,44.14,24.14,48.35,D,Below Average,Pass
+STU1111,Swati Shah,Female,Class 9A,79,65,67,70,71,64,55,72,20,24,29,38,33,27,32,66.29,29.0,66.76,C,Average,Pass
+STU1112,Kritika Khanna,Female,Class 10B,99,84,97,75,85,83,83,88,40,36,44,39,39,43,50,85.0,41.57,87.34,A,Very Good,Pass
+STU1113,Ritu Reddy,Female,Class 12B,85,57,51,70,69,68,74,52,29,21,32,34,26,28,38,63.0,29.71,66.51,C,Average,Pass
+STU1114,Ankit Khanna,Male,Class 12B,62,32,47,55,41,54,32,37,24,30,28,20,28,22,27,42.57,25.57,48.6,D,Below Average,Pass
+STU1115,Suresh Joshi,Male,Class 10B,87,80,100,97,84,86,93,93,46,47,39,42,36,50,46,90.43,43.71,88.99,A,Very Good,Pass
+STU1116,Rajesh Srivastava,Male,Class 12B,77,64,70,79,60,71,68,76,28,31,29,34,43,34,36,69.71,33.57,70.53,B,Good,Pass
+STU1117,Shreya Singh,Female,Class 12B,84,63,71,64,75,49,53,71,21,30,26,25,32,22,20,63.71,25.14,64.41,C,Average,Pass
+STU1118,Rohit Malhotra,Male,Class 11B,89,75,90,87,89,88,62,87,40,31,30,36,38,35,30,82.57,34.29,80.36,A,Very Good,Pass
+STU1119,Divya Dubey,Female,Class 10A,71,75,52,68,52,50,46,75,28,31,21,37,20,21,28,59.71,26.57,60.33,C,Average,Pass
+STU1120,Sneha Singh,Female,Class 10A,70,69,45,75,51,66,68,54,38,38,34,23,35,30,31,61.14,32.71,63.98,C,Average,Pass
+STU1121,Priyanka Gupta,Female,Class 11B,60,42,35,44,37,55,34,59,12,26,18,13,17,19,14,43.71,17.0,44.54,F,Poor,Fail
+STU1122,Deepika Choudhary,Female,Class 10A,84,59,75,48,74,74,57,71,20,22,34,30,30,27,35,65.43,28.29,66.93,C,Average,Pass
+STU1123,Harish Pandey,Male,Class 10A,70,52,68,46,50,67,59,62,24,34,24,28,33,33,27,57.71,29.0,60.24,C,Average,Pass
+STU1124,Aarav Shah,Male,Class 11A,40,40,20,23,30,18,25,29,20,8,9,21,6,11,22,26.43,13.86,29.47,F,Poor,Fail
+STU1125,Pooja Tiwari,Female,Class 9B,68,69,51,56,58,53,52,74,27,23,32,29,33,25,21,59.0,27.14,59.62,D,Below Average,Pass
+STU1126,Ananya Srivastava,Female,Class 9A,74,70,61,55,61,49,59,45,36,29,25,31,33,21,33,57.14,29.71,61.08,C,Average,Pass
+STU1127,Nikhil Tripathi,Male,Class 10A,64,71,50,61,69,52,67,50,26,22,22,35,28,25,26,60.0,26.29,58.94,D,Below Average,Pass
+STU1128,Vinod Kaur,Male,Class 10B,63,39,36,30,32,52,53,46,25,13,28,23,22,21,27,41.14,22.71,46.58,D,Below Average,Pass
+STU1129,Aarav Roy,Male,Class 12B,49,57,51,38,37,35,48,56,23,13,17,23,30,12,23,46.0,20.14,45.17,D,Below Average,Pass
+STU1130,Ishita Nair,Female,Class 9B,86,82,67,86,86,87,89,70,40,29,37,31,43,42,44,81.0,38.0,80.75,A,Very Good,Pass
+STU1131,Sunil Naidu,Male,Class 10A,60,52,75,47,52,64,50,50,23,29,28,37,20,20,23,55.71,25.71,55.5,D,Below Average,Pass
+STU1132,Nikhil Patel,Male,Class 12B,61,37,52,44,33,41,57,33,17,13,20,15,26,27,30,42.43,21.14,46.11,D,Below Average,Pass
+STU1133,Pooja Gupta,Female,Class 9B,72,73,49,62,63,52,72,52,24,38,34,32,25,20,32,60.43,29.29,62.28,C,Average,Pass
+STU1134,Smita Mahajan,Female,Class 9A,72,75,46,69,56,55,57,52,30,33,38,30,32,37,21,58.57,31.57,62.4,C,Average,Pass
+STU1135,Ishita Bose,Female,Class 11B,67,72,58,66,65,45,56,48,36,25,22,30,33,26,36,58.57,29.71,60.47,C,Average,Pass
+STU1136,Aditya Das,Male,Class 12A,57,54,59,44,50,31,55,58,13,13,20,20,29,13,15,50.14,17.57,47.76,D,Below Average,Pass
+STU1137,Pooja Ghosh,Female,Class 9A,58,37,60,31,39,33,39,41,17,15,13,28,20,14,26,40.0,19.0,43.1,F,Poor,Fail
+STU1138,Naveen Gupta,Male,Class 10A,69,74,58,63,54,53,52,68,22,37,29,34,38,27,32,60.29,31.29,62.6,C,Average,Pass
+STU1139,Mohit Jain,Male,Class 11B,59,58,47,39,49,45,45,56,21,12,19,22,19,18,28,48.43,19.86,48.37,D,Below Average,Pass
+STU1140,Pallavi Saxena,Female,Class 9A,56,35,57,60,37,40,47,40,27,20,21,18,21,13,12,45.14,18.86,45.46,D,Below Average,Pass
+STU1141,Mohit Nair,Male,Class 11B,59,51,31,46,42,56,44,41,15,28,19,16,25,22,23,44.43,21.14,46.81,D,Below Average,Pass
+STU1142,Vivek Verma,Male,Class 11A,76,48,68,72,68,74,69,60,28,24,33,23,20,33,37,65.57,28.29,65.41,C,Average,Pass
+STU1143,Varun Saxena,Male,Class 10A,73,72,70,53,72,64,64,48,32,34,34,29,31,29,31,63.29,31.43,65.12,C,Average,Pass
+STU1144,Ishita Malhotra,Female,Class 12A,80,55,45,70,68,72,60,57,34,29,25,37,29,24,33,61.0,30.14,64.62,C,Average,Pass
+STU1145,Pallavi Mishra,Female,Class 9B,95,85,94,82,85,81,88,75,35,36,43,50,44,44,48,84.29,42.86,86.79,A,Very Good,Pass
+STU1146,Priyanka Kulkarni,Female,Class 11B,46,49,51,41,44,60,30,51,14,28,19,15,25,23,28,46.57,21.71,45.67,D,Below Average,Pass
+STU1147,Nandini Malhotra,Female,Class 10A,66,75,58,60,57,59,69,64,38,30,36,22,25,31,30,63.14,30.29,63.07,C,Average,Pass
+STU1148,Kavya Banerjee,Female,Class 10A,63,65,73,54,67,55,71,74,36,33,25,36,29,36,26,65.57,31.57,64.45,C,Average,Pass
+STU1149,Gaurav Kumar,Male,Class 9A,95,78,79,63,71,78,80,80,29,41,28,28,37,45,28,75.57,33.71,77.42,B,Good,Pass
+STU1150,Priyanka Singh,Female,Class 9A,51,15,21,20,30,39,32,33,13,22,21,9,11,18,8,27.14,14.57,32.41,F,Poor,Fail
+STU1151,Karthik Ghosh,Male,Class 9B,45,33,32,35,60,46,45,56,26,25,13,12,30,22,16,43.86,20.57,43.41,F,Poor,Fail
+STU1152,Rajesh Shah,Male,Class 10A,76,68,80,63,87,88,90,78,30,39,34,42,40,28,29,79.14,34.57,76.01,B,Good,Pass
+STU1153,Siddharth Saxena,Male,Class 9A,89,61,79,67,67,67,61,65,33,38,28,42,37,41,36,66.71,36.43,72.71,B,Good,Pass
+STU1154,Kavya Pillai,Female,Class 12A,66,52,48,37,43,39,42,58,27,12,19,14,17,17,23,45.57,18.43,47.48,D,Below Average,Pass
+STU1155,Divya Sharma,Female,Class 11A,72,62,56,48,55,62,72,57,30,32,22,23,33,31,37,58.86,29.71,61.63,C,Average,Pass
+STU1156,Sanjay Verma,Male,Class 12B,54,41,37,43,31,38,51,30,22,16,19,16,14,18,20,38.71,17.86,41.02,F,Poor,Fail
+STU1157,Mohit Dubey,Male,Class 12B,82,65,71,71,66,83,72,72,34,37,43,44,34,35,42,71.43,38.43,74.9,B,Good,Pass
+STU1158,Vinod Dubey,Male,Class 11B,62,37,42,49,46,36,34,57,15,28,14,29,20,24,12,43.0,20.29,46.2,D,Below Average,Pass
+STU1159,Manish Sharma,Male,Class 12A,77,82,65,84,87,67,70,66,31,30,45,39,44,37,34,74.43,37.14,74.91,B,Good,Pass
+STU1160,Prakash Banerjee,Male,Class 9B,67,54,49,71,67,57,54,56,32,34,24,28,25,20,31,58.29,27.71,59.31,D,Below Average,Pass
+STU1161,Deepika Roy,Female,Class 9A,81,67,67,59,52,72,57,56,23,25,29,23,28,27,21,61.43,25.14,62.56,C,Average,Pass
+STU1162,Sneha Mahajan,Female,Class 10A,88,66,84,69,64,72,83,61,45,37,33,35,43,44,36,71.29,39.0,76.31,B,Good,Pass
+STU1163,Kritika Hegde,Female,Class 11B,45,33,56,54,54,50,39,58,13,30,13,19,15,13,22,49.14,17.86,44.96,F,Poor,Fail
+STU1164,Ashish Yadav,Male,Class 9B,98,97,98,87,98,94,82,83,37,46,48,49,45,49,36,91.29,44.29,91.95,A+,Excellent,Pass
+STU1165,Gaurav Hegde,Male,Class 10A,75,69,51,46,75,67,71,70,37,28,25,37,25,27,37,64.14,30.86,65.71,C,Average,Pass
+STU1166,Lakshmi Iyer,Female,Class 10A,71,56,58,47,51,65,54,49,24,35,35,27,27,20,36,54.29,29.14,58.63,D,Below Average,Pass
+STU1167,Ananya Bhatt,Female,Class 11B,82,54,49,73,67,49,63,63,27,30,23,37,33,25,24,59.71,28.43,63.46,C,Average,Pass
+STU1168,Pooja Bhat,Female,Class 12A,66,48,67,54,45,56,60,51,21,21,28,29,26,23,29,54.43,25.29,55.78,D,Below Average,Pass
+STU1169,Pooja Rao,Female,Class 11B,59,44,48,41,39,35,47,32,13,12,26,27,14,22,30,40.86,20.57,44.56,F,Poor,Fail
+STU1170,Pooja Bhatt,Female,Class 12B,73,60,51,70,62,55,45,56,22,29,28,27,22,24,20,57.0,24.57,58.23,D,Below Average,Pass
+STU1171,Ashish Saxena,Male,Class 10A,69,56,50,75,65,61,72,73,25,23,29,30,32,25,31,64.57,27.86,63.24,C,Average,Pass
+STU1172,Lakshmi Pandey,Female,Class 10A,47,44,26,41,41,23,22,16,6,8,17,6,11,20,18,30.43,12.29,32.28,F,Poor,Fail
+STU1173,Simran Rao,Female,Class 11A,49,33,35,17,19,37,22,20,9,19,17,7,6,19,20,26.14,13.86,31.11,F,Poor,Fail
+STU1174,Suresh Patil,Male,Class 11B,60,46,71,64,72,71,70,61,33,24,29,22,21,36,33,65.0,28.29,61.89,C,Average,Pass
+STU1175,Kavya Dubey,Female,Class 9A,80,88,83,65,72,69,60,74,39,34,43,30,45,38,44,73.0,39.0,75.65,B,Good,Pass
+STU1176,Shreya Naidu,Female,Class 10A,57,60,49,49,32,55,55,31,22,21,30,30,25,23,27,47.29,25.43,50.12,D,Below Average,Pass
+STU1177,Manish Sinha,Male,Class 9A,91,82,96,98,89,97,77,79,46,48,46,42,49,47,43,88.29,45.86,89.69,A,Very Good,Pass
+STU1178,Aditya Kumar,Male,Class 10B,62,53,33,37,57,56,38,50,15,18,28,20,27,19,29,46.29,22.29,49.0,D,Below Average,Pass
+STU1179,Lakshmi Naidu,Female,Class 9B,68,46,59,48,48,32,57,43,14,26,16,28,29,28,15,47.57,22.29,50.91,D,Below Average,Pass
+STU1180,Naveen Hegde,Male,Class 12A,92,65,90,90,66,78,75,84,30,32,39,29,40,35,29,78.29,33.43,78.17,B,Good,Pass
+STU1181,Sneha Sharma,Female,Class 10B,74,54,48,67,49,58,74,73,22,26,38,23,31,25,31,60.43,28.0,62.04,C,Average,Pass
+STU1182,Nisha Rajan,Female,Class 9A,93,78,82,86,91,98,91,86,50,36,46,38,46,45,38,87.43,42.71,88.04,A,Very Good,Pass
+STU1183,Yash Hegde,Male,Class 10B,53,41,36,52,44,30,56,48,26,15,12,27,15,14,20,43.86,18.43,43.94,F,Poor,Fail
+STU1184,Rahul Malhotra,Male,Class 11A,66,51,42,56,34,48,58,38,29,20,26,12,12,22,16,46.71,19.57,48.68,D,Below Average,Pass
+STU1185,Ishita Menon,Female,Class 9A,76,62,65,79,86,80,81,79,40,43,33,42,40,35,44,76.0,39.57,76.79,B,Good,Pass
+STU1186,Sunil Joshi,Male,Class 11A,89,93,94,76,81,80,86,98,49,45,49,47,46,45,35,86.86,45.14,88.14,A,Very Good,Pass
+STU1187,Pallavi Menon,Female,Class 11B,67,45,52,59,73,64,46,65,24,24,28,32,28,22,36,57.71,27.71,59.0,D,Below Average,Pass
+STU1188,Pallavi Ghosh,Female,Class 10A,67,31,59,47,58,54,33,57,18,25,30,15,23,21,19,48.43,21.57,50.82,D,Below Average,Pass
+STU1189,Vivek Nair,Male,Class 11A,95,98,86,91,95,82,86,92,47,45,36,45,45,50,46,90.0,44.86,90.93,A+,Excellent,Pass
+STU1190,Ankit Pillai,Male,Class 11B,49,34,36,30,58,57,51,44,24,26,24,30,21,17,30,44.29,24.57,46.44,D,Below Average,Pass
+STU1191,Rahul Banerjee,Male,Class 11A,68,68,63,62,66,74,75,55,22,26,38,22,38,25,29,66.14,28.57,64.26,C,Average,Pass
+STU1192,Tanvi Yadav,Female,Class 12A,77,86,75,70,88,65,68,88,36,45,28,33,36,35,28,77.14,34.43,75.04,B,Good,Pass
+STU1193,Rohit Saxena,Male,Class 12B,51,58,49,39,57,46,50,33,18,19,13,16,13,14,14,47.43,15.29,43.93,F,Poor,Fail
+STU1194,Simran Das,Female,Class 9A,91,83,92,95,75,95,85,75,41,45,45,35,50,47,45,85.71,44.0,87.34,A,Very Good,Pass
+STU1195,Rohit Roy,Male,Class 9A,87,95,94,85,99,90,94,87,43,49,35,35,45,45,36,92.0,41.14,88.57,A,Very Good,Pass
+STU1196,Smita Jain,Female,Class 11B,35,17,15,19,21,19,31,39,7,16,16,18,16,22,22,23.0,16.71,28.0,F,Poor,Fail
+STU1197,Vivek Mahajan,Male,Class 11B,52,53,49,38,56,52,45,54,13,21,29,26,29,20,23,49.57,23.0,49.16,D,Below Average,Pass
+STU1198,Priya Malhotra,Female,Class 12B,78,80,85,84,71,64,80,67,40,30,28,32,31,29,45,75.86,33.57,74.11,B,Good,Pass
+STU1199,Mohit Bhat,Male,Class 10A,68,75,64,56,68,49,73,50,25,36,20,31,27,34,35,62.14,29.71,62.63,C,Average,Pass
