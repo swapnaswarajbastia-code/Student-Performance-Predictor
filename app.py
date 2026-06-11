@@ -24,7 +24,20 @@ if st.button("Predict"):
         "English":[english],
         "Internal_Marks":[internal]
     })
+data = pd.DataFrame({
+    "Attendance":[attendance],
+    "Maths":[maths],
+    "Science":[science],
+    "English":[english],
+    "Internal_Marks":[internal]
+})
 
-    prediction = model.predict(data)
+st.write("Data Columns:")
+st.write(data.columns.tolist())
+
+st.write("Model Expected Features:")
+st.write(model.feature_names_in_)
+
+st.stop()
 
     st.success(f"Predicted Score: {prediction[0]:.2f}")
