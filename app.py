@@ -4,6 +4,9 @@ import pandas as pd
 import joblib
 
 model = joblib.load("student_performance_model.pkl")
+
+st.write("Expected Features:")
+st.write(model.feature_names_in_)
 st.title("🎓 Student Performance Predictor")
 
 attendance = st.number_input("Attendance (%)", 0, 100, 80)
