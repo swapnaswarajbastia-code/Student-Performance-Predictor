@@ -3,8 +3,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-model = joblib.load("student_model.pkl")
-
+model = joblib.load("student_performance_model.pkl")
 st.title("🎓 Student Performance Predictor")
 
 attendance = st.number_input("Attendance (%)", 0, 100, 80)
